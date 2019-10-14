@@ -1,12 +1,12 @@
 # What I learned in week 5
 
-## calc-you-later
+## [calc-you-later](https://github.com/ignitikus/calc-you-later)
 Simple calculator project where all functions are written in a JS file and exported to another JS file. Heavy on if/else statements and || operator.
 
 ## ***Document Object Model (DOM)***
 DOM is a nifty way to manipulate HTML and CSS using JavaScript. All the changes made in JS will overrule anything in CSS and HTML as long as `<script>` is placed at the bottom of the HTML `<body>`. 
 
-## this-might-be-a-domb-idea
+## [this-might-be-a-domb-idea](https://github.com/ignitikus/this-might-be-a-domb-idea)
 Lots of queries with text modifications.
 Introduced:
 
@@ -23,7 +23,7 @@ Operators can be assigned to a variable.
 
 Note: `To modify certain element you need to query it first`
 
-## ugly-query
+## [ugly-query](https://github.com/ignitikus/ugly-query)
 Uglification with DOM. Using style on a queried element will apply it only on first child. There are several methods to target several children:
 
     A loop can be used to apply same style to all children.
@@ -31,7 +31,7 @@ Uglification with DOM. Using style on a queried element will apply it only on fi
     childNodes operator can used on a queried parent to target it's children using their index. 
     Note: white spaces are considered as nodes.
 
-## domb-and-domber
+## [domb-and-domber](https://github.com/ignitikus/domb-and-domber)
 DOM within functions.
 
 ## DOMmer-Party-1
