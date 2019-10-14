@@ -5,6 +5,7 @@ DOM is a nifty way to manipulate HTML and CSS using JavaScript. All the changes 
 
 
 ## calc-you-later
+Simple calculator project where all functions are written in a JS file and exported to another JS file. Heavy on if/else statements and || operator.
 
 ## this-might-be-a-domb-idea
 
