@@ -34,7 +34,7 @@ Uglification with DOM. Using style on a queried element will apply it only on fi
 DOM within functions.
 
 ## DOMmer-Party-1
-<img src="https://media3.giphy.com/media/xUOwGmG2pRfFZUmdVe/giphy.gif?cid=790b7611f6b3aa893fe75202be8b39613c96747cefecd30a&rid=giphy.gif" alt="image" width='500px' style="display:block;margin-left:auto;margin-right:auto">
+<img src="https://media3.giphy.com/media/xUOwGmG2pRfFZUmdVe/giphy.gif?cid=790b7611f6b3aa893fe75202be8b39613c96747cefecd30a&rid=giphy.gif" alt="image" width='75%' style="display:block;margin-left:auto;margin-right:auto">
 
 ## CSS Diner
 
