@@ -30,9 +30,8 @@ Uglification with DOM. Using style on a queried element will apply it only on fi
     Using querySelectorAll children can be targeted by their index.
     childNodes operator can used on a queried parent to target it's children using their index. Note: white spaces are considered as nodes.
 
-
-
 ## domb-and-domber
+DOM within functions.
 
 ## DOMmer-Party-1
 
