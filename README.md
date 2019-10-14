@@ -19,10 +19,18 @@ Introduced:
     element.id
     parent.appendChild(child)
 
-Operators can be assigned to a variable. <br>
+Operators can be assigned to a variable. 
+
 Note: `To modify certain element you need to query it first`
 
 ## ugly-query
+Uglification with DOM. Using style on a queried element will apply it only on first child. There are several methods to target several children:
+
+    A loop can be used to apply same style to all children.
+    Using querySelectorAll children can be targeted by their index.
+    childNodes operator can used on a queried parent to target it's children using their index. Note: white spaces are considered as nodes.
+
+
 
 ## domb-and-domber
 
