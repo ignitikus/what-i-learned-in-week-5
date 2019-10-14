@@ -35,7 +35,7 @@ DOM within functions.
 
 ## DOMmer-Party-1
 <p style="text-align:center">
-<img src="https://media3.giphy.com/media/xUOwGmG2pRfFZUmdVe/giphy.gif?cid=790b7611f6b3aa893fe75202be8b39613c96747cefecd30a&rid=giphy.gif" alt="image" width='75%'>
+<img src="https://media3.giphy.com/media/xUOwGmG2pRfFZUmdVe/giphy.gif?cid=790b7611f6b3aa893fe75202be8b39613c96747cefecd30a&rid=giphy.gif" alt="image">
 </p>
 
 ## CSS Diner
