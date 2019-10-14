@@ -1,6 +1,8 @@
 # What I learned in week 5
 
 ## ***Document Object Model (DOM)***
+DOM is a nifty way to manipulate HTML and CSS using JavaScript. All the changes made in JS will overrule anything in CSS and HTML as long as `<script>` is placed at the bottom of the HTML `<body>`. 
+
 
 ## calc-you-later
 
